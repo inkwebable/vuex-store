@@ -1,5 +1,7 @@
 # vuex-store
 
+Demo on [Heroku](https://vuex-store.herokuapp.com/)
+
 ## Project setup
 ```
 npm install
